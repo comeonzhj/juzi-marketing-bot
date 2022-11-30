@@ -8,13 +8,13 @@ export interface TimeConfig {
 
 export const timeConfig: TimeConfig = {
   // 早报定时发送时间
-  morningReport: '07:30',
+  morningReport: '19:45',
   // 早上油价定时发送时间
-  morningGasMessage: '08:00',
+  morningGasMessage: '19:50',
   // 新闻定时发送时间
-  newsMessage: '09:00',
+  newsMessage: '19:55',
   // 开心一刻发送时间
-  jokeMessage: '15:00',
+  jokeMessage: '20:00',
   // 下午油价定时发送时间
-  afternoonGasMessage: '17:00',
+  afternoonGasMessage: '20:05',
 };
